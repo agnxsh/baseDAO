@@ -10,7 +10,6 @@ module Test.Ligo.RegistryDAO
 
 import Prelude
 
-import Data.Map qualified as M
 import Data.Set qualified as S
 import Test.Tasty (TestTree, testGroup)
 
